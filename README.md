@@ -1,2 +1,2 @@
 # ML-Intern
-Projects on Machine learning/Data Analysis using Python
+This repository consists of my projects on Machine learning/Data Analysis using Python
